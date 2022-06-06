@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1654549629018.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B4652034",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1654549629018,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "F8433BFE",
+        "caption" : "mun_apretaditos",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=mun_apretaditos&cache_key=F8433BFE",
+        "displayedObservations" : "72",
+        "environment" : "",
+        "expression" : "mun_apretaditos",
+        "object" : "mun_apretaditos",
+        "preview" : "0",
+        "totalObservations" : "72",
+        "variables" : "61"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

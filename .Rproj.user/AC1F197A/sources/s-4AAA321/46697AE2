@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1654540581340.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "46697AE2",
+    "lastKnownWriteTime" : 1632839386,
+    "last_content_update" : 1654540585240,
+    "path" : "~/Documents/Laura/Obsdemocracia/far_right/paquetes.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "23,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

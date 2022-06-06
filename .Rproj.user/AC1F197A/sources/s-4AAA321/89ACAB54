@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1654542431746.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "89ACAB54",
+    "lastKnownWriteTime" : 140535624892416,
+    "last_content_update" : 1654542431746,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "E5CFD177",
+        "caption" : "municipios",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=municipios&cache_key=E5CFD177",
+        "displayedObservations" : "1121",
+        "environment" : "",
+        "expression" : "municipios",
+        "object" : "municipios",
+        "preview" : "0",
+        "totalObservations" : "1121",
+        "variables" : "20"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
